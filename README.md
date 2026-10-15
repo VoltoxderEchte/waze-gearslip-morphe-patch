@@ -14,6 +14,14 @@
 >   there is no warranty of any kind (see [LICENSE](LICENSE)).
 > - This project is not affiliated with Waze, Google, Gearslip or Morphe.
 
+## A note from me
+
+I can't code. I let Claude build this patch so that I could use Waze with Gearslip, and I haven't
+written or checked any of the code myself.
+
+I'm only releasing it so that other people can use it, fork it and improve the base code that
+Claude wrote. If you know what you're doing, pull requests, forks and fixes are very welcome.
+
 A [Morphe](https://morphe.software) patch source with exactly one patch, **Allow Gearslip**. It lets
 Waze accept [Gearslip](https://github.com/Seb3thehacker/gearslip), the open-source Android Auto
 alternative, as a host for its car screen.
