@@ -123,7 +123,7 @@ gradle-app.setting
 node_modules/
 
 # gradle properties, due to Github token
-/gradle.properties
+# gradle.properties holds only the version and build flags; keep GitHub tokens in ~/.gradle/gradle.properties.
 
 # Ignore IDEA files
 .idea/
